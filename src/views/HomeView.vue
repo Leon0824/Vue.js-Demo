@@ -6,7 +6,7 @@ import * as jose from 'jose';
 import { systemMenuOptions } from "../menuOptions";
 import Switcher from '@carbon/icons-vue/es/switcher/32';
 
-const appTitle = import.meta.env.VITE_APP_TITLE;
+const appTitle = 'Vue.js APP';
 const router = useRouter();
 
 const token = JSON.parse( localStorage.getItem( 'account' ) )[ 'access_token' ];
