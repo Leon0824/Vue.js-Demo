@@ -39,7 +39,7 @@
     "prettier": "^2.5.1",
     "start-server-and-test": "^1.14.0",
     "unplugin-vue-components": "^0.19.5",
-    "vite": "^2.9.5",
+    "vite": "^2.9.13",
     "vitest": "^0.9.4"
   }
 }
